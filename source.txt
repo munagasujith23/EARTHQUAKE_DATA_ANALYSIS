@@ -1,0 +1,32 @@
+Project: Significant Earthquakes (1965-2016) - Exploratory Data Analysis
+Group Name: Code Phoenix
+
+Dataset
+-------
+Name: Significant Earthquake Dataset (Significant Earthquakes, 1965-2016)
+Provider: U.S. Geological Survey (USGS) / National Earthquake Information Center (NEIC)
+Platform: Kaggle
+Link: https://www.kaggle.com/datasets/usgs/earthquake-database
+
+Description:
+Date, time, and location of all earthquakes with a reported magnitude of 5.5
+or higher, recorded worldwide from 1965 to 2016. The dataset is compiled and
+maintained by the USGS National Earthquake Information Center (NEIC), which
+determines the location and size of significant earthquakes globally.
+
+How to Run the Code
+--------------------
+1. Download the dataset from the Kaggle link above.
+2. Save the downloaded file as "earth_quake.csv".
+3. Place "earth_quake.csv" in the same folder as "earthquake.py" (code/).
+4. Run earthquake.py.
+
+References
+----------
+1. USGS Earthquake Hazards Program: https://earthquake.usgs.gov/earthquakes/
+2. Kaggle Dataset Page: https://www.kaggle.com/datasets/usgs/earthquake-database
+3. Gutenberg-Richter Law (background reference for frequency-magnitude analysis):
+   https://en.wikipedia.org/wiki/Gutenberg%E2%80%93Richter_law
+
+Note: The raw dataset file (earth_quake.csv) is not included in this submission
+as per guidelines. It can be downloaded directly from the Kaggle link above.
